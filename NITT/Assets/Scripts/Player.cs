@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
 
     bool jumpKeywasPressed = false;
     float horizontalInput, verticalInput;
-    float translateSpeedFactor = 0.3f;
+    float translateSpeedFactor = 0.4f;
     Rigidbody rigidbodyComponent;
 
     // Start is called before the first frame update
